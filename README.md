@@ -18,9 +18,12 @@ This project was developed using **Visual Studio Code** as part of the **SkillCr
 * **Score Tracking:** Real-time attempt counter to challenge the user.
 * **Input Validation:** Prevents crashes if non-numeric characters are entered.
 
-## 📸 Screenshot
-*(Place your screenshot here. Name it `game_preview.png` and save it in this folder)*
+## 📸 Screenshot & Demo
+
+### Application Interface
 ![App Screenshot](docs/screenshots/game_preview.png)
+
+### 🎥 [Watch the Demo Video](docs/demo_video/demo_video.mp4)
 
 ## 🛠️ Installation & Run
 To run this project locally, follow these steps:
@@ -45,7 +48,8 @@ To run this project locally, follow these steps:
 * `guessing_game.py`: Main game logic and GUI script
 * `requirements.txt`: Dependencies list
 * `README.md`: Project documentation
-* `game_preview.png`: Screenshot of the running game
+* `docs/screenshots/`: Folder containing app images
+* `docs/demo_video/`: Folder containing the project walkthrough
 
 ## 💻 Tech Stack
 * **Programming Language:** Python 3.13.6
