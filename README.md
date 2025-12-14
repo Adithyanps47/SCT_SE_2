@@ -20,7 +20,7 @@ This project was developed using **Visual Studio Code** as part of the **SkillCr
 
 ## 📸 Screenshot
 *(Place your screenshot here. Name it `game_preview.png` and save it in this folder)*
-![App Screenshot](game_preview.png)
+![App Screenshot](docs/screenshots/game_preview.png)
 
 ## 🛠️ Installation & Run
 To run this project locally, follow these steps:
