@@ -23,7 +23,7 @@ This project was developed using **Visual Studio Code** as part of the **SkillCr
 ### Application Interface
 ![App Screenshot](docs/screenshots/game_preview.png)
 
-### 🎥 [Watch the Demo Video](docs/demo_video/demo_video.mp4)
+### 🎥 [Watch the Demo Video](docs/video_demo/demo_video.mp4)
 
 ## 🛠️ Installation & Run
 To run this project locally, follow these steps:
@@ -49,7 +49,7 @@ To run this project locally, follow these steps:
 * `requirements.txt`: Dependencies list
 * `README.md`: Project documentation
 * `docs/screenshots/`: Folder containing app images
-* `docs/demo_video/`: Folder containing the project walkthrough
+* `docs/demo_video/`: Folder containing the project demo
 
 ## 💻 Tech Stack
 * **Programming Language:** Python 3.13.6
